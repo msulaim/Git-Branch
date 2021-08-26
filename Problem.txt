@@ -1,0 +1,5 @@
+Problem:
+What is the mean of the following set of numbers ?
+3,3,3,3,3,3
+
+Solution:
