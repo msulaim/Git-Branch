@@ -3,3 +3,4 @@ What is the mean of the following set of numbers ?
 3,3,3,3,3,3
 
 Solution:
+The mean is 3. If a set of numbers contains the same number, irrrespective of the quantity, the mean is the number itself!
